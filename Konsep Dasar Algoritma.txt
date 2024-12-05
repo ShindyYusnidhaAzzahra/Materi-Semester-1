@@ -1,0 +1,48 @@
+PENGERTIAN ALGORITMA
+	Algoritma adalah langkah-langkah atau prosedur yang terstruktur dan sistematis untuk menyelesaikan suatu masalah atau mencapai tujuan tertentu. Dalam konteks ilmu komputer, algoritma digunakan untuk memecahkan masalah dengan cara yang efisien dan terorganisir, sehingga bisa diikuti oleh komputer untuk mendapatkan hasil yang diinginkan. Algoritma biasanya terdiri dari urutan instruksi yang jelas, yang dapat dieksekusi dalam waktu terbatas, dan mengubah input menjadi output sesuai dengan aturan yang ditetapkan.
+Secara sederhana, algoritma bisa diibaratkan seperti resep masakan: ada bahan-bahan (input) yang perlu diproses dengan langkah-langkah tertentu untuk menghasilkan hidangan (output). Algoritma juga harus memenuhi beberapa kriteria seperti efektif, tepat, dan dapat diterapkan pada berbagai masalah yang serupa.
+      Definisi Algoritma secara umum berarti: Langkah-langkah yang sistematis dan logis untuk menyelesaikan masalah (INPUT) sehingga menghasilkan penyelesaian (OUTPUT) yang diinginkan.
+Urutan Langkah Langkah yang disusun harus logis dan sistematis untuk memcahkan suatu masalah. Algoritma harus logis atau benar yang artinya algoritma harus memberikan output/hasil yang dikehendaki dari sejumlah masukan yang diberikan.
+* Input: 
+Pengguna memasukkan uang atau koin ke dalam mesin.
+Pengguna memilih produk yang ingin dibeli dengan menekan tombol yang sesuai.
+* Proses:
+Mesin menerima uang atau koin dan memeriksa apakah jumlahnya cukup untuk membeli produk yang dipilih.
+Jika jumlah uang cukup, mesin mengeluarkan produk yang dipilih.
+Jika jumlah uang kurang, mesin menolak transaksi dan mengembalikan uang yang dimasukkan oleh pengguna.
+Mesin juga dapat memberikan kembalian jika jumlah uang yang dimasukkan lebih besar dari harga produk.
+* Output: 
+Jika uang cukup, pengguna menerima produk yang dipilih.
+Jika uang tidak cukup, pengguna menerima kembalian atau peringatan bahwa uangnya kurang.
+PENYAJIAN ALGORITMA
+Penyajian algoritma terbagi menjadi:
+Deskriptif
+Flowchart
+Pseudocode
+* Deskriptif
+Penyajian deskriptif adalah penjelasan naratif atau dalam bentuk teks tentang bagaimana algoritma berfungsi.
+Ini sering digunakan dalam bahasa manusia yang mudah dipahami dan diikuti oleh pengembang atau pembaca algoritma.
+Deskripsi langkah demi langkah algoritma diberikan dalam bahasa alami atau bahasa pemrograman yang mudah dipahami.
+Contoh : misalnya algoritma menentukan bilangan terbesar dari 3 bilangan berikut ini: Algoritma Menentukan_bilangan_terbesar_dari_3_bilangan :
+Meminta input 3 bilangan dari user, misalkan bilangan a, b, dan c.
+Apabila bilangan a lebih besar dari b maupun c, maka bilangan a merupakan bilangan terbesar
+Jika tidak (bilangan a tidak lebih besar dari b atau c) berarti bilangan a sudah pasti bukan bilangan terbesar. Kemungkinannya tinggal bilangan b atau c. Apabila bilangan b lebih besar dari c, maka b merupakan bilangan terbesar. Sebaliknya apabila bilangan b tidak lebih besar dari c, maka bilangan c merupakan yang terbesar.
+Selesai.
+* Flowchart 
+Flowchart adalah representasi visual dari algoritma dalam bentuk diagram yang terdiri dari simbol-simbol geometris seperti kotak, panah, dan berlian.
+Setiap simbol mewakili langkah-langkah atau keputusan dalam algoritma, dan panah menghubungkannya untuk menunjukkan alur eksekusi.
+Flowchart membantu pengguna untuk secara visual melihat aliran logika dan cabang keputusan dalam algoritma.
+Aturan dalam membuat Flowchart:
+Flowchart digambarkan dari halaman atas ke bawah dan dari kiri kekanan.
+Aktivitas yang digambarkan harus didefinisikan secara hati-hati dan definisi ini harus dapat di mengerti oleh pembacanya.
+Kapan aktivitas dimulai dan berakhir harus ditentukan secara jelas.
+Setiap langkah dari aktivitas harus diuraikan dengan menggunakan deskripsi kata kerja.
+Setiap langkah dari aktivitas harus berada pada urutan yang benar.
+Lingkup dan range dari aktifitas yang sedang digambarkan harusditelusuri dengan hati-hati. Percabangan-percabangan yang memotong aktivitas yang sedang digambarkan tidak perlu digambarkan pada flowchart yang sama. Simbol konektor harus digunakan dan percabangannya diletakan pada halaman yang terpisah atau hilangkan seluruhnya bila percabangannya tidak berkaitan dengan sistem.
+Gunakan simbol-simbol flowchart yang standar.
+
+Pseudocode 
+	Pseudocode adalah sebuah metode penulisan menggunakan bahasa sederhana untuk mengekspresikan desain algoritma. Pseudocode bermanfaat untuk mempermudah manusia untuk memahami algoritma karena lebih mudah dipahami dibandingkan dengan bahasa pemrograman. Penulisan pseudocode tidak memiliki aturan pasti namun harus logis. 
+
+	Secara umum, pseudocode akan berisi tiga bagian utama ini yang saling mendukung dalam menyusun algoritma yang jelas, mudah dipahami, dan terstruktur. Sebuah pseudocode yang baik akan menunjukkan bagaimana input diproses untuk menghasilkan output dengan jelas, serta bagaimana kontrol alur bekerja untuk mengambil keputusan atau mengulangi proses tertentu.
+
